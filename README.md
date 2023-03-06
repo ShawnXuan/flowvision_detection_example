@@ -23,4 +23,5 @@ unzipping
 unzip *.zip
 ```
 
-
+## pretraind models
+Pretrained model will be automatically downloaded to $HOME/.oneflow/flowvision_cache directory.
